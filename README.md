@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A.J.PRANAV</h1>
-<h3 align="center">a passionate techy</h3>
+<h3 align="center">a tech enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
